@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SportMan</string>
+    <string name="all_events">All events</string>
+    <string name="upcoming_events">Upcoming events</string>
+    <string name="liked_events">Liked events</string>
+    <string name="retry">Retry</string>
+
+</resources>
